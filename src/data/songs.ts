@@ -7,7 +7,7 @@ export const SONGS: Song[] = [
     songName: 'Gehra Hua',
     songDes: 'From Dhurandhar Movie',
     songImage: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song1.mp3',
+    songPath: "/symphony-app/songs/song1.mp3",
     genre: 'trending',
     tempo: 60,
     synthType: 'file'
@@ -17,7 +17,7 @@ export const SONGS: Song[] = [
     songName: 'Shararat',
     songDes: 'From Dhurandhar Movie',
     songImage: 'https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song2.mp3',
+    songPath: "/symphony-app/songs/song2.mp3",
     genre: 'trending',
     tempo: 120,
     synthType: 'file'
@@ -27,7 +27,7 @@ export const SONGS: Song[] = [
     songName: 'Tum Ho To',
     songDes: 'From "Saiyaara"',
     songImage: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song3.mp3',
+    songPath: "/symphony-app/songs/song3.mp3",
     genre: 'trending',
     tempo: 72,
     synthType: 'file'
@@ -37,7 +37,7 @@ export const SONGS: Song[] = [
     songName: 'Saiyaara',
     songDes: 'Tanishk Bagchi, Faheem Abdullah',
     songImage: 'https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song4.mp3',
+    songPath: "/symphony-app/songs/song4.mp3",
     genre: 'trending',
     tempo: 80,
     synthType: 'file'
@@ -47,7 +47,7 @@ export const SONGS: Song[] = [
     songName: 'Dopamine',
     songDes: 'Punjabi song by Guru Randhawa',
     songImage: 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song5.mp3',
+    songPath: "/symphony-app/songs/song5.mp3",
     genre: 'trending',
     tempo: 128,
     synthType: 'file'
@@ -57,7 +57,7 @@ export const SONGS: Song[] = [
     songName: 'Surmedani',
     songDes: 'Bajre Da Sitta',
     songImage: 'https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song6.mp3',
+    songPath: "/symphony-app/songs/song6.mp3",
     genre: 'trending',
     tempo: 90,
     synthType: 'file'
@@ -67,7 +67,7 @@ export const SONGS: Song[] = [
     songName: 'Tere Liye',
     songDes: 'Atif Aslam, Shreya Ghoshal',
     songImage: 'https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song7.mp3',
+    songPath: "/symphony-app/songs/song7.mp3",
     genre: 'trending',
     tempo: 85,
     synthType: 'file'
@@ -77,7 +77,7 @@ export const SONGS: Song[] = [
     songName: 'Mere Baba',
     songDes: 'Jubin Nautiyal, Payal Dev',
     songImage: 'https://images.unsplash.com/photo-1506157786151-b8491531f063?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song8.mp3',
+    songPath: "/symphony-app/songs/song8.mp3",
     genre: 'trending',
     tempo: 65,
     synthType: 'file'
@@ -87,7 +87,7 @@ export const SONGS: Song[] = [
     songName: 'Lo Safar',
     songDes: 'Hit Song by Jubin Nautiyal',
     songImage: 'https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song9.mp3',
+    songPath: "/symphony-app/songs/song9.mp3",
     genre: 'trending',
     tempo: 76,
     synthType: 'file'
@@ -97,7 +97,7 @@ export const SONGS: Song[] = [
     songName: 'Raataan Lambiyan',
     songDes: 'Romantic Song from Shershaah',
     songImage: 'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song10.mp3',
+    songPath: "/symphony-app/songs/song10.mp3",
     genre: 'trending',
     tempo: 95,
     synthType: 'file'
@@ -108,7 +108,7 @@ export const SONGS: Song[] = [
     songName: 'Namo Namo',
     songDes: 'Kedarnath - Amit Trivedi',
     songImage: 'https://images.unsplash.com/photo-1545239351-ef35f43d514b?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song11.mp3',
+    songPath: "/symphony-app/songs/song11.mp3",
     genre: 'devotional',
     tempo: 105,
     synthType: 'file'
@@ -118,7 +118,7 @@ export const SONGS: Song[] = [
     songName: 'Narayan Mil Jayega',
     songDes: 'Jubin Nautiyal, Manoj Muntashir',
     songImage: 'https://images.unsplash.com/photo-1608848461950-0fe51dfc41cb?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song12.mp3',
+    songPath: "/symphony-app/songs/song12.mp3",
     genre: 'devotional',
     tempo: 70,
     synthType: 'file'
@@ -128,7 +128,7 @@ export const SONGS: Song[] = [
     songName: 'Ram Siya Ram',
     songDes: 'Peaceful Devotional Ambient',
     songImage: 'https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song13.mp3',
+    songPath: "/symphony-app/songs/song13.mp3",
     genre: 'devotional',
     tempo: 60,
     synthType: 'file'
@@ -139,7 +139,7 @@ export const SONGS: Song[] = [
     songName: 'Sorry Sorry',
     songDes: 'Bhojpuri Hits - Pawan Singh',
     songImage: 'https://images.unsplash.com/photo-1487180142328-0c4e37023af5?w=400&auto=format&fit=crop&q=60',
-    songPath: '/songs/song14.mp3',
+    songPath: "/symphony-app/songs/song14.mp3",
     genre: 'popular',
     tempo: 135,
     synthType: 'file'
