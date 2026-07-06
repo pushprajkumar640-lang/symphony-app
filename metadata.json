@@ -1,0 +1,6 @@
+{
+  "name": "Symphony",
+  "description": "An elegant music streaming web application with custom player controls, playlists, beautiful visualizers, and an integrated audio experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
