@@ -8,7 +8,7 @@ A modern and responsive music streaming web application built with React, TypeSc
 
 ## 📸 Screenshot
 
-![Symphony Music App](./screenshot.png)
+![Symphony Music App](Screenshot.png)
 
 ## ✨ Features
 
